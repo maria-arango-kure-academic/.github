@@ -1,5 +1,3 @@
-# .github
-
 # Maria Arango-Kure
 
 I’m a researcher and lecturer at Jönköping International Business School. I study digital platforms, AI, and responsibility in digital systems. This organization brings together materials from my research, software I build for research, and tools I use in teaching.
